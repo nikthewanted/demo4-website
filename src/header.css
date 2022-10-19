@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 2px lightgray;
+    /* padding: 30px; */
+}
+
+.image{
+    width: 60px;
+}
+
+.nav-items {
+    display: flex;
+    list-style:none;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.nav-items li{
+    padding-left: 20px;
+}
